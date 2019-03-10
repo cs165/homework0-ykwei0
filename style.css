@@ -1,7 +1,14 @@
-body {
+h1 {
+  font-family: Impact;
+}
+h2{
   font-family: monospace;
 }
 p {
+  font-family: SimHei;
   font-size: 30px;
-  color: red;
+  color: blue;
+}
+span{
+  color: white;
 }
