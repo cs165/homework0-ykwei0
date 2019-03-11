@@ -1,7 +1,8 @@
 h1 {
   font-family: Impact;
+  font-size: 60px;
 }
-h2{
+h2 {
   font-family: monospace;
 }
 p {
@@ -9,6 +10,6 @@ p {
   font-size: 30px;
   color: blue;
 }
-span{
+span {
   color: white;
 }
